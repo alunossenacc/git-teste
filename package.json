@@ -2,9 +2,9 @@
   "name": "git-teste",
   "version": "1.0.0",
   "description": "Projeto aula_03",
-  "main": "./src/app/index.html",
+  "main": "main.js",
   "scripts": {
-    "start": "npm run lite", 
+    "start": "./src/app/index.html", 
     "test": "echo \"Error: no test specified\" && exit 1", 
     "lite": "lite-server" 
   },
